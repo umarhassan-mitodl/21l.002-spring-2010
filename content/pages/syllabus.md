@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, requirements, and the schedule of lecture topics and assignment
   due dates.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -77,7 +79,7 @@ Classroom Participation (Including Presentation)
 MIT Statement On Plagiarism
 ---------------------------
 
-Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the {{% resource_link "72ffec68-f371-4f4c-a606-09404168a1a4" "Writing and Communication Center" %}} and the {{% resource_link "d13daa26-2803-41f3-852e-4388cb9741e6" "MIT Web site on Plagiarism" %}}.
+Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) and the [MIT Web site on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
 
 Course Calendar
 ---------------
